@@ -17,4 +17,4 @@ Dengan mengintegrasikan teknologi pemindaian biometrik wajah (*face recognition*
 ## 🔗 Tautan Repositori Utama
 Untuk melihat seluruh kode sumber, konfigurasi hardware, dan pengembangan program yang dikerjakan oleh tim, Anda dapat mengunjungi repositori utama kami melalui tautan di bawah ini:
 
-💻 **[Lihat Source Code Lengkap SAPA-Dashboard Di Sini ➔](PASTE_LINK_REPO_SAPA_KAMU_DISINI)**
+💻 **[klik untuk melihat source code lengkap proyek SAPA](https://github.com/powpulous/SAPA-Dashboard)**
